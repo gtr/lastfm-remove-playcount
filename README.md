@@ -18,4 +18,4 @@ add more customization options to the Grid view :).
 
 Copy-and-paste into the console via your browser's developer tools.
 
-![Remove Play Count Demo](remove-playcount.mov)
+![Remove Play Count Demo](remove-playcount.gif)
